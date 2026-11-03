@@ -1,86 +1,58 @@
-# Hi, I'm Vinitha 👋
+# Hi, I'm Vinitha! 👋
 
-### Python Developer | AI/ML | Generative AI | RAG & AI Agents | FastAPI | SQL
+### Python Developer | AI/ML | Generative AI | RAG & AI Agents
 
-B.Tech Information Technology graduate focused on building practical Python, AI/ML and Generative AI applications.
+I'm an Information Technology graduate interested in building Python applications and AI-powered solutions. I enjoy working with backend development, machine learning, NLP, and Generative AI.
 
-I have hands-on experience building **REST APIs, backend applications, machine learning workflows, NLP applications, RAG pipelines and AI agents** using Python and modern AI tools.
+### 🛠️ Technical Skills
 
-## 🛠️ Technical Skills
+* **Programming:** Python, SQL
+* **Backend:** FastAPI, REST APIs
+* **Frontend:** Streamlit
+* **AI/ML:** Machine Learning, Deep Learning, NLP, PyTorch
+* **Generative AI:** RAG, Agentic RAG, LangChain, LangGraph, LLMs
+* **Databases:** PostgreSQL, SQLite, ChromaDB
+* **Tools:** Git, GitHub, Redis, Celery
 
-**Programming:** Python, SQL, OOP, Data Structures
+### 🚀 Featured Projects
 
-**Backend & APIs:** FastAPI, REST APIs, Streamlit, Async Programming
+**1. Distributed OCR Agentic RAG**
 
-**Machine Learning:** Scikit-learn, Regression, Classification, Clustering, Model Evaluation
+* Document processing and OCR-based question-answering system.
+* Hybrid search, reranking, duplicate detection and LLM integration.
 
-**Deep Learning & NLP:** PyTorch, LSTM, Transformers, TinyBERT, Sentiment Analysis
+**2. AI Tool-Using Agent**
 
-**Generative AI:** LLMs, Prompt Engineering, RAG, Embeddings, Vector Search, Hybrid Search, Reranking, AI Agents
+* Python-based AI agent integrating calculator, time, web search and public API tools.
+* Explored LangChain, LangGraph and local LLM integration.
 
-**Databases & Storage:** SQLite, PostgreSQL, Redis, ChromaDB
+**3. Banking Management System**
 
-**AI/Agent Tools:** LangChain, LangGraph, Ollama, Tool Calling
+* Banking application with account management, balance enquiry, credit and debit operations.
+* Built using Streamlit, FastAPI and SQLite.
 
-**Tools:** Git, GitHub, VS Code
+**4. Smart Todo Application**
 
-## 🚀 Featured Projects
+* Task management application using FastAPI and SQLite.
+* Explored asynchronous execution and concurrency handling.
 
-### 🔹 Distributed OCR + Agentic RAG
+**5. Sentiment Analysis: LSTM vs TinyBERT**
 
-End-to-end document intelligence application combining PDF processing, OCR, SHA-256 duplicate detection, document chunking, embeddings, hybrid BM25 + vector retrieval, cross-encoder reranking, LLM generation and web-search fallback.
+* Compared deep learning and pretrained transformer approaches for sentiment classification.
 
-**Tech:** Python, FastAPI, Streamlit, PostgreSQL, Redis, Celery, ChromaDB, Ollama, OCR, RAG
+### 🎓 Education
 
-### 🔹 AI Tool-Using Agent
+B.Tech – Information Technology
+Dr. N.G.P. Institute of Technology | 2017
 
-Agentic Python application using an LLM with tools for calculation, time, web search and public API interaction.
+### 💼 Internship
 
-**Tech:** Python, LangChain, LangGraph, Ollama, APIs, Tool Calling
+AI/ML Intern – LYFnGo, Coimbatore
+July 2026 – October 2026
 
-### 🔹 Banking System
+### 📫 Connect With Me
 
-Full-stack Python banking application with REST APIs, database operations, Redis caching and an interactive Streamlit interface.
+* LinkedIn: https://www.linkedin.com/in/vinitha-prakasam-8b0752b7/
+* GitHub: https://github.com/Vinitha-P25
 
-**Tech:** Python, FastAPI, SQLite, Redis, Streamlit
-
-### 🔹 Smart Todo Project
-
-FastAPI task-management application demonstrating asynchronous processing, threading, concurrency, race-condition handling and performance testing.
-
-**Tech:** Python, FastAPI, SQLite, AsyncIO, Threading
-
-### 🔹 Sentiment Analysis — LSTM vs TinyBERT
-
-Comparison of a custom LSTM model and pretrained TinyBERT for IMDb sentiment classification.
-
-**Tech:** Python, PyTorch, NLP, Transformers
-
-### 🔹 Machine Learning Projects
-
-Hands-on projects covering customer churn prediction, loan default prediction, linear regression, K-Means customer segmentation and Fashion-MNIST classification.
-
-## 🎯 Currently Focused On
-
-* Generative AI applications
-* Retrieval-Augmented Generation (RAG)
-* AI Agents and Tool Calling
-* LLM application development
-* Python backend development
-* FastAPI and REST APIs
-
-## 💼 Open To
-
-* Junior Python Developer
-* Python Developer Intern
-* AI/ML Intern
-* AI Engineer Intern
-* Generative AI Intern
-* Junior AI Developer
-* RAG / LLM Intern
-
-## 🔗 Connect With Me
-
-**LinkedIn:** https://www.linkedin.com/in/vinitha-prakasam-8b0752b7/
-
-**GitHub:** https://github.com/Vinitha-P25
+**Currently interested in:** Python Developer | AI/ML Intern | Generative AI opportunities
