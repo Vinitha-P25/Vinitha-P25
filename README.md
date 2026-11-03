@@ -1,56 +1,86 @@
-# Hi, I'm Vinitha! 👋
+# Hi, I'm Vinitha 👋
 
-### Python Developer | Machine Learning | Deep Learning | NLP
+### Python Developer | AI/ML | Generative AI | RAG & AI Agents | FastAPI | SQL
 
-I'm a B.Tech Information Technology graduate passionate about Python development, Machine Learning, and Artificial Intelligence.
+B.Tech Information Technology graduate focused on building practical Python, AI/ML and Generative AI applications.
 
-I build hands-on projects to strengthen my technical skills and explore practical applications of AI and Machine Learning.
+I have hands-on experience building **REST APIs, backend applications, machine learning workflows, NLP applications, RAG pipelines and AI agents** using Python and modern AI tools.
 
 ## 🛠️ Technical Skills
 
-* **Programming:** Python, SQL
-* **Machine Learning:** Scikit-learn, Classification, Regression, Clustering
-* **Deep Learning:** PyTorch, Neural Networks, LSTM
-* **Natural Language Processing:** Text Preprocessing, Sentiment Analysis, TinyBERT
-* **Application Development:** FastAPI, Streamlit, SQLite
-* **Tools:** Git, GitHub, VS Code
+**Programming:** Python, SQL, OOP, Data Structures
+
+**Backend & APIs:** FastAPI, REST APIs, Streamlit, Async Programming
+
+**Machine Learning:** Scikit-learn, Regression, Classification, Clustering, Model Evaluation
+
+**Deep Learning & NLP:** PyTorch, LSTM, Transformers, TinyBERT, Sentiment Analysis
+
+**Generative AI:** LLMs, Prompt Engineering, RAG, Embeddings, Vector Search, Hybrid Search, Reranking, AI Agents
+
+**Databases & Storage:** SQLite, PostgreSQL, Redis, ChromaDB
+
+**AI/Agent Tools:** LangChain, LangGraph, Ollama, Tool Calling
+
+**Tools:** Git, GitHub, VS Code
 
 ## 🚀 Featured Projects
 
-### 1. Sentiment Analysis: LSTM vs TinyBERT
+### 🔹 Distributed OCR + Agentic RAG
 
-Comparing an LSTM model with a pretrained TinyBERT model for sentiment classification using the IMDb movie review dataset.
+End-to-end document intelligence application combining PDF processing, OCR, SHA-256 duplicate detection, document chunking, embeddings, hybrid BM25 + vector retrieval, cross-encoder reranking, LLM generation and web-search fallback.
 
-**Technologies:** Python, PyTorch, NLP, Transformers
+**Tech:** Python, FastAPI, Streamlit, PostgreSQL, Redis, Celery, ChromaDB, Ollama, OCR, RAG
 
-[View Project](https://github.com/Vinitha-P25/Sentiment_LSTM_vs_TinyBERT)
+### 🔹 AI Tool-Using Agent
 
-### 2. Customer Churn Classification
+Agentic Python application using an LLM with tools for calculation, time, web search and public API interaction.
 
-A machine learning project focused on predicting customer churn using classification techniques.
+**Tech:** Python, LangChain, LangGraph, Ollama, APIs, Tool Calling
 
-### 3. Customer Churn ML Comparison
+### 🔹 Banking System
 
-Comparing machine learning models and exploring hyperparameter tuning and techniques for imbalanced datasets.
+Full-stack Python banking application with REST APIs, database operations, Redis caching and an interactive Streamlit interface.
 
-### 4. Fashion-MNIST with PyTorch
+**Tech:** Python, FastAPI, SQLite, Redis, Streamlit
 
-Exploring deep learning through image classification using PyTorch.
+### 🔹 Smart Todo Project
 
-### 5. K-Means Customer Segmentation
+FastAPI task-management application demonstrating asynchronous processing, threading, concurrency, race-condition handling and performance testing.
 
-Applying unsupervised learning to group customers based on their data.
+**Tech:** Python, FastAPI, SQLite, AsyncIO, Threading
 
-## 📚 Currently Learning
+### 🔹 Sentiment Analysis — LSTM vs TinyBERT
 
-* Large Language Models (LLMs)
-* Prompt Engineering
-* Tokenization and Context Windows
-* Running Local LLMs with Ollama
-* Building AI/ML Applications
+Comparison of a custom LSTM model and pretrained TinyBERT for IMDb sentiment classification.
 
-## 🎯 Career Interests
+**Tech:** Python, PyTorch, NLP, Transformers
 
-Interested in Python Developer and entry-level AI/ML opportunities where I can apply my skills, contribute to practical projects, and continue learning.
-* **LinkedIn:** [Vinitha Prakasam](https://www.linkedin.com/in/vinitha-prakasam-8b0752b7/)
-* **GitHub:** [Vinitha-P25](https://github.com/Vinitha-P25)
+### 🔹 Machine Learning Projects
+
+Hands-on projects covering customer churn prediction, loan default prediction, linear regression, K-Means customer segmentation and Fashion-MNIST classification.
+
+## 🎯 Currently Focused On
+
+* Generative AI applications
+* Retrieval-Augmented Generation (RAG)
+* AI Agents and Tool Calling
+* LLM application development
+* Python backend development
+* FastAPI and REST APIs
+
+## 💼 Open To
+
+* Junior Python Developer
+* Python Developer Intern
+* AI/ML Intern
+* AI Engineer Intern
+* Generative AI Intern
+* Junior AI Developer
+* RAG / LLM Intern
+
+## 🔗 Connect With Me
+
+**LinkedIn:** https://www.linkedin.com/in/vinitha-prakasam-8b0752b7/
+
+**GitHub:** https://github.com/Vinitha-P25
